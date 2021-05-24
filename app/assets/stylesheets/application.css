@@ -13,9 +13,12 @@
  *= require_tree .
  *= require_self
  */
+<<<<<<< HEAD
 
 * {
     box-sizing: border-box;
 }
 
 
+=======
+>>>>>>> parent of b7434de (サイドバーとチャット画面ファイルの分割)
