@@ -80,6 +80,9 @@
     padding: 46px 40px 0 40px;
     overflow: scroll;
 }
+.message{
+    margin-left: 20px;
+}
 
 .upper-message{
     display: flex;
