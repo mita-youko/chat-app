@@ -36,6 +36,10 @@
     padding: 20px 20px 40px;
 }
 
+.room {
+    padding: 10px 0 10px;
+}
+
 .room-name a{
     color: white;
     text-decoration: none;
@@ -76,6 +80,9 @@
     padding: 46px 40px 0 40px;
     overflow: scroll;
 }
+.message{
+    margin-left: 20px;
+}
 
 .upper-message{
     display: flex;
@@ -112,7 +119,7 @@
     display: flex;
 }
 
-.text-box{
+.form-message{
     padding-left: 10px;
     border: none;
     height: 50px;
@@ -120,7 +127,7 @@
 
 }
 
-.send-button{
+.form-submit{
     background-color: #38aef0;
     color: white;
     font-size: 16px;
